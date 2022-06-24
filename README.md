@@ -1,6 +1,6 @@
 # Hello! 👋
 
-some brabble about me
+My name is Elio Bouwhuis, and I am a game designer in the making. Besides doing some designing tasks for my projects, I also have some experiences with web and game development. I currently study Creative Media & Game Technologies at Saxion University of Applied Sciences in Enschede. 
 
 ## My scripting/programming skills
 
@@ -20,6 +20,8 @@ some brabble about me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elio-bouwhuis-162a371a1/)
 
 ## My projects
+
+
 
 <!--
 **Elio-Bouwhuis/Elio-Bouwhuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
