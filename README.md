@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Elio Bouwhuis, and I am a game designer in the making. Besides doing designing tasks for my projects, I also have some experiences with web and game programming. You can find some of my projects under the "My projects" header further down this page. I currently study Creative Media & Game Technologies at Saxion University of Applied Sciences in Enschede. Before I attended this study I studied GameDeveloper at Aventus in Apeldoorn. 
+My name is Elio Bouwhuis, and I am a game designer in the making. Besides doing designing tasks for my projects, I also have some experiences with web and game programming. You can find some of my projects under the "My projects" header further down this page. I currently study Creative Media & Game Technologies at Saxion University of Applied Sciences in Enschede. Before I attended this study I studied Game Developer at Aventus in Apeldoorn. 
 
 ## My scripting/programming skills
 
@@ -12,6 +12,7 @@ My name is Elio Bouwhuis, and I am a game designer in the making. Besides doing 
 ## Tools I have experience with
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## My socials
