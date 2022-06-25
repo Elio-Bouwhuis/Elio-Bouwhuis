@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Elio Bouwhuis, and I am a game designer in the making. Besides doing some designing tasks for my projects, I also have some experiences with web and game development. I currently study Creative Media & Game Technologies at Saxion University of Applied Sciences in Enschede. 
+My name is Elio Bouwhuis, and I am a game designer in the making. Besides doing designing tasks for my projects, I also have some experiences with web and game programming. You can find some of my projects under the "My projects" header further down this page. I currently study Creative Media & Game Technologies at Saxion University of Applied Sciences in Enschede. Before I attended this study I studied GameDeveloper at Aventus in Apeldoorn. 
 
 ## My scripting/programming skills
 
@@ -9,11 +9,10 @@ My name is Elio Bouwhuis, and I am a game designer in the making. Besides doing 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## Used tools
+## Tools I have experience with
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## My socials
 
@@ -21,7 +20,9 @@ My name is Elio Bouwhuis, and I am a game designer in the making. Besides doing 
 
 ## My projects
 
+[![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Koen-H&repo=Super-Xenon-Galaxy&theme=dark)](https://github.com/Koen-H/Super-Xenon-Galaxy)
 
+[![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Koen-H&repo=The-Rolling-Cones&theme=dark)](https://github.com/Koen-H/The-Rolling-Cones)
 
 <!--
 **Elio-Bouwhuis/Elio-Bouwhuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
