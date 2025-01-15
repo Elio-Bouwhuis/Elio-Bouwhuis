@@ -22,9 +22,13 @@ My name is Elio Bouwhuis, and I am a Game Designer in the making. Besides doing 
 ## My projects
 
 [![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Koen-H&repo=Super-Xenon-Galaxy&theme=dark)](https://github.com/Koen-H/Super-Xenon-Galaxy)
+
 [![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Koen-H&repo=The-Rolling-Cones&theme=dark)](https://github.com/Koen-H/The-Rolling-Cones)
 
 [![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Elio-Bouwhuis&repo=The-Lost-Treasure&theme=dark)](https://github.com/Elio-Bouwhuis/The-Lost-Treasure)
+
 [![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Elio-Bouwhuis&repo=El-Catto-The-Mysterious-Object&theme=dark)](https://github.com/Elio-Bouwhuis/El-Catto-The-Mysterious-Object)
+
 [![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Elio-Bouwhuis&repo=ModelShowcaseGame&theme=dark)](https://github.com/Elio-Bouwhuis/ModelShowcaseGame)
+
 [![RankedByTheAudience](https://github-readme-stats.vercel.app/api/pin/?username=Patrycioss&repo=RankedByTheAudience&theme=dark)](https://github.com/patrycioss/RankedByTheAudience)
