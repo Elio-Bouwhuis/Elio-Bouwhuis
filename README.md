@@ -29,6 +29,4 @@ My name is Elio Bouwhuis, and I am a game/web designer and developer. You can fi
 
 [![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Elio-Bouwhuis&repo=El-Catto-The-Mysterious-Object&theme=dark)](https://github.com/Elio-Bouwhuis/El-Catto-The-Mysterious-Object)
 
-[![ProjectName](https://github-readme-stats.vercel.app/api/pin/?username=Elio-Bouwhuis&repo=ModelShowcaseGame&theme=dark)](https://github.com/Elio-Bouwhuis/ModelShowcaseGame)
-
 [![RankedByTheAudience](https://github-readme-stats.vercel.app/api/pin/?username=Patrycioss&repo=RankedByTheAudience&theme=dark)](https://github.com/patrycioss/RankedByTheAudience)
